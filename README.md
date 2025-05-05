@@ -1,3 +1,3 @@
-# OOP-II
-#Name:Oscar
-#190481
+# OOP-II Assignment
+#Name:Tanui, Oscar Haggai
+# Adm:190481
